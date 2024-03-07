@@ -6,7 +6,7 @@ import HeaderTitle from './components/HeaderTitle.vue'
 <template>
   <header>
     <div class="wrapper">
-      <HeaderTitle msg="Timeline App" />
+      <HeaderTitle msg="Projest Timeline" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
@@ -27,7 +27,6 @@ nav {
   width: 100%;
   font-size: 12px;
   text-align: center;
-  margin-top: 1rem;
 }
 
 nav a.router-link-exact-active {
@@ -53,7 +52,6 @@ nav a:first-of-type {
     display: flex;
     place-items: center;
     padding-right: calc(var(--section-gap) / 2);
-    padding-top: 2rem;
     border-bottom: 1px solid darkgrey;
   }
 
@@ -69,7 +67,6 @@ nav a:first-of-type {
     font-size: 1rem;
 
     padding: 1rem 0;
-    margin-top: 1rem;
   }
 }
 </style>

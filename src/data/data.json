@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "event": "Define Project scope",
+    "description": "You need to figure out what needs to be done for the project to succeed. ",
+    "duration": "Wed Jan 18 2023 20:57:00 GMT+0100 (Central European Standard Time)",
+    "isPresent": false
+  },
+  {
+    "id": 2,
+    "event": "Split the Project Into Parts",
+    "description": "Once you know what you have to do to succeed, it’s time to take a closer look at all the necessary operations, their scope, and milestones that mark their progress.",
+    "duration": "Wed May 17 2023 20:58:00 GMT+0200 (Central European Summer Time)",
+    "isPresent": false
+  },
+  {
+    "id": 3,
+    "event": "Determine the Time and Resources Needed to Complete Each Phase or Task",
+    "description": "Now it’s time to check what they need to be completed on time.",
+    "duration": "Wed Nov 15 2023 20:59:00 GMT+0100 (Central European Standard Time)",
+    "isPresent": false
+  },
+  {
+    "id": 4,
+    "event": " Assign Tasks to Specialists",
+    "description": "Finally, if you have already broken down each task into pieces, you can use your newly acquired knowledge to start project scheduling. ",
+    "duration": "Wed Mar 20 2023 20:53:00 GMT+0100 (Central European Standard Time)",
+    "isPresent": true
+  }
+]

@@ -8,16 +8,16 @@
 }
 
 a,
-.green {
+.maroon {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: #c2185b;
   transition: 0.4s;
   padding: 3px;
 }
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: #f5e9ee;
   }
 }
 
@@ -26,10 +26,10 @@ a,
     display: block;
     place-items: center;
   }
-
+  /* 
   #app {
     display: grid;
     grid-template-rows: 1fr 1fr;
     padding: 0 2rem;
-  }
+  } */
 }
